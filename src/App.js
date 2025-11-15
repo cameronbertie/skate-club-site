@@ -45,7 +45,7 @@ function App() {
           <br></br>
           <h3>😀<u>AND FINALLY...</u></h3>
           <p>BaySixty6 Skate Park charges an entry fee to use the park, but as this is our first ever skate meet, your entry will be completely covered! If you’d like to join us, just message the meetup organiser @cameronbertie
-          on Instagram for more details and please don't hesitate to ask any questions.</p>
+          on Instagram or WhatsApp. Please don't hesitate to reach out if you have any questions.</p>
           <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
       </div>
 
