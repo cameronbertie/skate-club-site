@@ -8,23 +8,22 @@ function App() {
       <h1>Skate Together! <span>🛹</span></h1>
 
       <div class="community">
-        Join the community for new and beginner adult skateboarders<br/><a href="https://www.instagram.com/cameronbertie" target="_blank" >DM @cameronbertie on Instagram to learn more</a>
+        Join the community for new and beginner adult skateboarders<br/>
       </div>
-      
       <div class="attendee-count">
-        First skate meet on Sunday 30th November 2025
+        <a href="https://www.instagram.com/cameronbertie" target="_blank" >DM @cameronbertie on Instagram to learn more</a>
       </div>
 
       <div class="card">
 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/BAYSIXTY6_Skate_Park_2024-06-05.jpg/960px-BAYSIXTY6_Skate_Park_2024-06-05.jpg?20240615160544" alt="Peak District"/>
+        <img src="/IMG_20251130_121049292.jpg" alt="Peak District"/>
 
         <div class="card-footer">
-          📍BAYSIXTY6 SKATE PARK<br></br>📅SUNDAY 30TH NOVEMBER 2025<br></br>⌚10:00AM
+          📍BAYSIXTY6 SKATE PARK MEET<br></br>COMPLETED✅
         </div>
       
       </div>
-
+{/*
       <div class="info">
         <br></br>
         <h2>🛹BAYSIXTY6 SKATE MEET</h2>
@@ -48,7 +47,7 @@ function App() {
           on Instagram or WhatsApp. Please don't hesitate to reach out if you have any questions.</p>
           <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
       </div>
-
+*/}
     </div>
   );
 }

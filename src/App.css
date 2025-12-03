@@ -3,7 +3,7 @@
 }
 
     body {
-      font-family: 'Courier New', monospace;
+      font-family: "Spline Sans Mono", monospace;
       background-color: #f3e9df;
       margin: 0 auto;
       padding: 20px;
@@ -34,8 +34,8 @@
       text-align: left;
     }
 
-    .community a {
-      color: #e74c3c;
+    .attendee-count a {
+      color: #3a71a1;
       text-decoration: none;
       font-weight: bold;
     }
@@ -50,7 +50,7 @@
     }
 
     .card {
-      max-width: 500px;
+      max-width: 668px;
       margin: 0 auto;
       border-radius: 20px;
       overflow: hidden;
@@ -69,7 +69,7 @@
       color: #fff;
       padding: 14px;
       font-weight: bold;
-      font-size: 1.1rem;
+      font-size: 20px;
     }
 
     /* Responsive rule */
@@ -81,6 +81,10 @@
       }
 
       .card img {
-        height: 400px;
+        height: auto;
+      }
+
+      .card-footer {
+        font-size: 16px;
       }
     }
