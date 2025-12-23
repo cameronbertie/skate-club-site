@@ -38,7 +38,7 @@ function App() {
         <img src="/IMG_20251130_121049292.jpg" alt="Peak District"/>
 
         <div class="card-footer">
-          📍BAYSIXTY6 SKATE PARK MEET<br></br>SATURDAY, 30th NOVEMBER 2025<br></br>COMPLETED✅
+          📍BAYSIXTY6 SKATE PARK MEET<br></br>SUNDAY, 30th NOVEMBER 2025<br></br>COMPLETED✅
         </div>
       
       </div>
