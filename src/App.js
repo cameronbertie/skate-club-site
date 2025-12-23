@@ -19,7 +19,7 @@ function App() {
         <img src="/82c286720b3fa6bad2dfdda1f925cc4e.jpeg" alt="Peak District"/>
 
         <div class="card-footer">
-          📍SKATEHUB LONDON MEET<br></br>SATURDAY, JANUARY 3rd 2026<br></br>1:00pm - 3:00pm<br></br><br></br>
+          📍SKATEHUB LONDON MEET<br></br>SATURDAY, 3rd JANUARY 2026<br></br>1:00pm - 3:00pm<br></br><br></br>
           <a
   href="https://luma.com/event/evt-O0AeAuRaml2rNl7"
   class="luma-checkout--button"
@@ -38,7 +38,7 @@ function App() {
         <img src="/IMG_20251130_121049292.jpg" alt="Peak District"/>
 
         <div class="card-footer">
-          📍BAYSIXTY6 SKATE PARK MEET<br></br>COMPLETED✅
+          📍BAYSIXTY6 SKATE PARK MEET<br></br>SATURDAY, 30th NOVEMBER 2025<br></br>COMPLETED✅
         </div>
       
       </div>
