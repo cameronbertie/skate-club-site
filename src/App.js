@@ -8,10 +8,29 @@ function App() {
       <h1>Skate Together! <span>🛹</span></h1>
 
       <div class="community">
-        Join the community for new and beginner adult skateboarders<br/>
+        Join the community for new and beginner adult skateboarders in London<br/>
       </div>
       <div class="attendee-count">
         <a href="https://www.instagram.com/cameronbertie" target="_blank" >DM @cameronbertie on Instagram to learn more</a>
+      </div>
+
+      <div class="card">
+
+        <img src="/82c286720b3fa6bad2dfdda1f925cc4e.jpeg" alt="Peak District"/>
+
+        <div class="card-footer">
+          📍SKATEHUB LONDON MEET<br></br>SATURDAY, JANUARY 3rd 2026<br></br>1:00pm - 3:00pm<br></br><br></br>
+          <a
+  href="https://luma.com/event/evt-O0AeAuRaml2rNl7"
+  class="luma-checkout--button"
+  data-luma-action="checkout"
+  data-luma-event-id="evt-O0AeAuRaml2rNl7"
+  target="_blank"
+>
+  Register for Event
+</a>
+        </div>
+      
       </div>
 
       <div class="card">
